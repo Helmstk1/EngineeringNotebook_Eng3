@@ -43,6 +43,7 @@ You will then write each assignment using this template:
 
 ---
 ~~~
+---
 
 ## Exemplars
 
@@ -50,12 +51,17 @@ You will then write each assignment using this template:
 
 [His first few reflections were AMAZING.](https://github.com/vwellmo57/CircuitPython/blob/master/README.md) but the second half tapered off.  Just look at the first couple reflections.
 
+---
+
 ## UsefulGitStuff
 
  For future use.
- 
+
+---
+
 ## UsefulCircuitPythonStuff
 
 My former Engineering 3 Kiddos wanted you to have this webpage, they found this site was crucial in helping them figure out how to switch their brains from Arduino to Circuit Python. So bookmark this site!
 
 [Adafruit CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython/overview)
+---
