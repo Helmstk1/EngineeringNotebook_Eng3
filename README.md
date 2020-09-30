@@ -11,27 +11,38 @@ This Tome of Knowledge is here to help my Engineering 3 kiddos do their best wit
 
 
 ## Template
-Your readme should start off with a header title, like this
-~~~
-# Basic Onshape Cad
-~~~
+Your readme should start off with a header or title, then a short description of what this repo is.
+
 Then use a table of contents.  The name in the Parentheses must exactly match the name in the subheader, like this
 ~~~
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
-* [Template](#Template)
-* [Exemplars](#Exemplars)
-* [UsefulGitStuff](#UsefulGitStuff)
-* [Photo Interrupter](#Photo-Interrupter)
-* [Distance Sensor](#Distance-Sensor)
-* [Classes, Objects, and Modules](#Classes-Objects-and-Modules)
-* [Hello vs Code](#Hello-VSCode)
-* [Fancy LED](#Fancy-LED)
-
-## Template
+* [Base](#Base)
+* [Mount](#Mount)
+* [Fork](#Fork)
+* [Tire](#Tire)
+* [Wheel](#Wheel)
+* [AxleCollarBearings](#AxleCollarBearings)
+* [Subassembly](#Subassembly)
+* [FinalAssembly](#FinalAssembly)
 
 ~~~
 
+You will then write each assignment using this template:
+~~~
+
+## AssignmentName
+
+### Description
+
+### Evidence
+
+### Image
+
+### Reflection
+
+---
+~~~
 
 ## Exemplars
 
@@ -43,7 +54,7 @@ Then use a table of contents.  The name in the Parentheses must exactly match th
 
  For future use.
  
-##
+## UsefulCircuitPythonStuff
 
 My former Engineering 3 Kiddos wanted you to have this webpage, they found this site was crucial in helping them figure out how to switch their brains from Arduino to Circuit Python. So bookmark this site!
 
