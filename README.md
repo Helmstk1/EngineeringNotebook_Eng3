@@ -64,4 +64,3 @@ You will then write each assignment using this template:
 My former Engineering 3 Kiddos wanted you to have this webpage, they found this site was crucial in helping them figure out how to switch their brains from Arduino to Circuit Python. So bookmark this site!
 
 [Adafruit CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython/overview)
----
