@@ -43,6 +43,8 @@ You will then write each assignment using this template:
 
 ---
 ~~~
+
+This should create a repo that is structure similar to the thing you're reading right now.
 ---
 
 ## Exemplars
